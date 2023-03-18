@@ -1,6 +1,6 @@
 ---
     - name: Issue show commands
-      hosts: all
+      hosts: 10.10.20.48
       connection: local
       gather_facts: no
       tasks:
