@@ -1,6 +1,6 @@
 ---
     - name: Issue show commands
-      hosts: nodes
+      hosts: all
       connection: local
       gather_facts: no
       tasks:
