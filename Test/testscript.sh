@@ -1,1 +1,1 @@
-ansible-playbook ./mainplay.yml --limit evetesters
+ansible-playbook ./mainplay.yml 
