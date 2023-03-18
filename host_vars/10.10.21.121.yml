@@ -6,7 +6,7 @@ local_loopback:
 
 interfaces:
   - name: GigabitEthernet1
-    ip_address: 10.10.21.121/24
+    ip_address: 10.10.21.123/24
   - name: GigabitEthernet2
     ip_address: 172.16.16.1/30
   - name: GigabitEthernet3
